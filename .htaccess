@@ -1,0 +1,3 @@
+﻿RewriteEngine on
+RewriteRule mypage_(.*)\.php$ ^(.*)$/antiscanner.php
+RewriteRule mydir_(.*)$ ^(.*)$/antiscanner.php
